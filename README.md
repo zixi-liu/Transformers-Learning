@@ -1,2 +1,4 @@
 # Transformers-Learning
-Stanford [CS25 - Transformer United] learning notes and code dump.
+
+This repo is dedicated to learning nlp tasks, mainly focusing on fraud detection and recommendation use cases.
+
